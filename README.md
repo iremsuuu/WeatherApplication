@@ -11,9 +11,9 @@
 -Wind: Rüzgar hızını içerir.  
 ### WeatherService Sınıfı:
 -HttpClient kullanarak bir hava durumu API'sine bağlantı sağlar.
-GetWeather metodu, belirli bir şehir için hava durumu bilgilerini alır ve bu bilgileri WeatherInfo nesnesine dönüştürerek geri döner.  
+-GetWeather metodu, belirli bir şehir için hava durumu bilgilerini alır ve bu bilgileri WeatherInfo nesnesine dönüştürerek geri döner.  
 ### WeatherPrinter Sınıfı:
-WeatherInfo nesnesini alır ve bu bilgileri konsola yazdırır.
+-WeatherInfo nesnesini alır ve bu bilgileri konsola yazdırır.
 ### Program Sınıfı:
-Main metodu, uygulamayı başlatır.
-WeatherService ve WeatherPrinter sınıflarını kullanarak belirli şehirlerin hava durumu bilgilerini alır ve ekrana yazdırır.
+-Main metodu, uygulamayı başlatır.
+-WeatherService ve WeatherPrinter sınıflarını kullanarak belirli şehirlerin hava durumu bilgilerini alır ve ekrana yazdırır.
